@@ -1,0 +1,22 @@
+Finding all the factors of a number and show whether it is a perfect number, i.e., the sum of all its factors (excluding the number itself) is equal to the number itself 
+
+ 3. Defining and Using Functions  a) Write a function to read data from a file and display it on the screen  
+b) Define a boolean function is palindrome(<input>)  
+
+c) 
+
+Write a function collatz(x) which does the following: if x is odd, x = 3x + 1; if x is even, then x = x/2. Return the number of steps it takes for x = 1  d) 
+
+Write a function N(m, s) = exp(-(x-m)2/(2s2))/sqrt(2π)s that computes the Normal distribution 
+
+Write a program to implement Digital Logic Gates – AND, OR, NOT, EX-OR 4. 
+
+Write a program to implement Half Adder, Full Adder, and Parallel Adder
+
+Write a function called gcd that takes parameters a and b and returns their greatest common divisor. 
+
+Write a function that takes a sentence as an input parameter and replaces the first letter of every word with the corresponding upper case letter and the rest of the letters in  the word by corresponding letters in lower  case without using a built-in function?
+
+Writes a recursive function that generates all binary strings of n-bit length 
+
+Write a function that reads a file file1 and displays the number of words, number of vowels, blank spaces, lower case letters and uppercase letters.
